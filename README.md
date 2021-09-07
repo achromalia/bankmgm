@@ -2,15 +2,15 @@
 A Bank Management system written in C++ With many more features added since the V1 release 
 
 ### Devlog :
--> Added Data Storage to a DAT file 
--> Changed welcome screen 
--> Added Better UI 
+- Added Data Storage to a DAT file .
+- Changed welcome screen. 
+- Added Better UI. 
 
 ### Future Features
 I plan to add many features to this program in the future such as :
 
--> Interest Over Time on the Money Kept
--> GUI interface which will lead me to revamp the whole program
+- Interest Over Time on the Money Kept
+- GUI interface which will lead me to revamp the whole program
 
 
 
