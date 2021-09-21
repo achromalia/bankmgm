@@ -18,7 +18,7 @@ I plan to add many features to this program in the future such as :
 
 The Code has Already Been Pre-compiled for you to use it ! 
 Please check out the releases Tab to get the build
-https://github.com/daxontop/bankmgm/releases
+https://github.com/wafflxs/bankmgm/releases
 
 
 ### This Project Was Made Using
