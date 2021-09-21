@@ -373,7 +373,7 @@ void intro()
 	cout<<"\n\t\t\t BANK MANAGEMENT SYSTEM";
 	cout<<"\n\t\t\t************************";
 	cout<<"\n\t\t\t( Some Colours May Be Flashy )";
-	cout<<"\n\n\n\nDeveloper : Wafflxs / Dax";
+	cout<<"\n\n\n\nDeveloper : Wafflxs";
 	cout<<"\n\ngithub.com/wafflxs";
 	Sleep(800);
 	cout<<"\n\n\n\n\n\n\n\nL04D1NG\n";
